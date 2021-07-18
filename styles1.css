@@ -1,0 +1,113 @@
+div{
+    text-align: center;
+    
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 100px;
+    background: linear-gradient(45deg,lightgreen,lightsalmon,lightgreen) ;
+    margin: 0px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.main-header{
+    background: white url("cinemaimages/logo.png") no-repeat scroll center;
+    background-size: cover;
+    padding: 10px;
+    
+}
+.main-nav{
+    background: linear-gradient(45deg,darkgreen,darkred);
+    padding: 15px;
+    position: sticky;
+    top: 0px;
+    
+    
+}
+.main-nav a{
+    text-decoration: none;
+    padding: 0px 25px;
+    color: white;
+}
+table img{
+        border: 4px solid brown;
+        
+}
+table{
+    width: 100%;
+}
+
+h2{
+    background: linear-gradient(45deg,red,blue,darkred);
+    border-radius: 70px;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 600px;
+    margin: auto;
+    color: white;
+}
+iframe{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+img{
+    box-shadow: 0 5px 10px black;
+}
+
+#vishnuvardhan h3{
+    background: linear-gradient(45deg,darkred,orange,darkblue);
+}
+#home h1{
+    background: coral;
+}
+h1{
+    border-radius: 50px;
+    width: 800px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#singers img{
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+#aside h2{
+    margin-bottom: 30px;
+}
+#records ol li{
+    text-align: start;
+    margin-left: 23%;
+}
+.aside h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#footer h2{
+    margin-top: 20px;
+}
+.aside{
+    background: linear-gradient(45deg,darkgreen,lightblue);
+    margin: 0px;
+    padding: 5px;
+    width: 300px;
+    border-radius: 18px;
+    box-shadow: 0 5px 10px black;
+    margin-left: 40%;
+}
+.aside a{
+    display: block;
+    padding: 10px;
+    text-align: center;
+    
+}
+.aside a:hover{
+    background: linear-gradient(45deg,orange,orangered);
+    border-radius: 50px;
+}
+#down h2{
+    margin-bottom: 20px;
+
+}
+
